@@ -1,0 +1,26 @@
+/*All odd numbered elements */
+
+.odd {
+    background-color:#FADFD5;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+/* Second element */
+
+#notwo {
+    color: #3441CE;
+    font-size: 36px;
+}
+
+/* Third element */
+
+.font-24 {
+    font-size: 24px;
+}
+
+/* Fourth element */
+
+#fourth {
+    background-color: #86E762;
+    font-weight: bold;
+}
